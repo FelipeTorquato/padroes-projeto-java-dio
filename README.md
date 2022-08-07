@@ -1,1 +1,1 @@
-# Projeto Explorando Padrões de Projeto na Prática com Java
+# Projeto Explorando Padrões de Projeto na Prática com Java oferecido pela DIO
